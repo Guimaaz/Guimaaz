@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <h1 style="margin: 0;">Hi 👋! My name is Gustavo</h1>
-  <img height="75" style="transition: transform 0.3s; margin-left: 10px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V3NTFkYTd1aTQxazNiYWRtYTRicm5ocWJjM2xlem1rd2ZoanFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mp27S5eZcKbIBc5vFl/giphy.gif" alt="GIF" />
+  <img height="75" style="transition: transform(3rem,-3rem); margin-left: 10px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V3NTFkYTd1aTQxazNiYWRtYTRicm5ocWJjM2xlem1rd2ZoanFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mp27S5eZcKbIBc5vFl/giphy.gif" alt="GIF" />
 </div>
 
 

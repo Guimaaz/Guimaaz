@@ -1,6 +1,10 @@
-<h1 align="left">Hi 👋! My name is Gustavo</h1> <img align="left" height="75" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V3NTFkYTd1aTQxazNiYWRtYTRicm5ocWJjM2xlem1rd2ZoanFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mp27S5eZcKbIBc5vFl/giphy.gif"  />
+<h1 align="left" style="display: inline-block;">Hi 👋! My name is Gustavo</h1>
+<img align="left" height="75" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V3NTFkYTd1aTQxazNiYWRtYTRicm5ocWJjM2xlem1rd2ZoanFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mp27S5eZcKbIBc5vFl/giphy.gif" alt="GIF" style="margin-left: 10px;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
+<div style="margin-top: 20px;">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
+</div>
+
 
 
 

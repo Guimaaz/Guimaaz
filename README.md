@@ -1,3 +1,4 @@
+<h1 align="left">Hello, my name is Gustavo, and here you gonna find more about me 🙂</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
 
 
@@ -54,3 +55,13 @@
 <img src="https://raw.githubusercontent.com/Guimaaz/Guimaaz/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h1 align="center">For more</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-guimarães-756937224/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>

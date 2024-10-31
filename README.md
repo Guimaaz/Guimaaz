@@ -1,9 +1,4 @@
-
-<div align="center" style="display: flex; align-items: center;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cat Gif" width="150" style="margin-left: 12px;" />
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
 
 
 ###

@@ -1,4 +1,4 @@
-<h1 align="left">Hello, my name is Gustavo, and here you gonna find more about me 🙂</h1>
+<h1 align="left">Hi 👋! My name is Gustavo</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
 
@@ -10,6 +10,9 @@
 ###
 
 <div align="left">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />

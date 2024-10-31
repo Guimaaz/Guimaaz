@@ -2,6 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
 
+<br clear="both">
+
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V3NTFkYTd1aTQxazNiYWRtYTRicm5ocWJjM2xlem1rd2ZoanFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mp27S5eZcKbIBc5vFl/giphy.gif"  />
+
 
 ###
 

@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/Guimaaz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
 
 ###
 

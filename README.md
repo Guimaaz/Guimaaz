@@ -1,10 +1,16 @@
 <h1 align="left">Hi 👋! My name is Gustavo</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
+    <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V3NTFkYTd1aTQxazNiYWRtYTRicm5ocWJjM2xlem1rd2ZoanFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mp27S5eZcKbIBc5vFl/giphy.gif" alt="GIF" />
+  </div>
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
+  </div>
+</div>
 
 <br clear="both">
 
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V3NTFkYTd1aTQxazNiYWRtYTRicm5ocWJjM2xlem1rd2ZoanFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mp27S5eZcKbIBc5vFl/giphy.gif"  />
 
 
 ###

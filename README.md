@@ -7,6 +7,8 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimaaz&layout=donut)](https://github.com/Guimaaz)
 
+   ![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=Guimaaz1&radius=16&theme=react&area=true&order=5")
+
 
 
 

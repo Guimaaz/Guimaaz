@@ -32,7 +32,8 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/Cloud-00ADEE?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB" />
+<img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chroma&logoColor=white" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Vector_Store-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Store" />
 <img src="https://img.shields.io/badge/Embeddings-2496ED?style=for-the-badge&logo=vector-logistics&logoColor=white" alt="Embeddings" />
 
 
